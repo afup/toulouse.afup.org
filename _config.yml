@@ -1,0 +1,30 @@
+url: "http://toulouse.afup.org"
+
+title: "AFUP Toulouse"
+description: >-
+  Antenne AFUP sur Toulouse
+twitter_username: AFUP_Toulouse
+meetup_url: "https://www.meetup.com/fr-FR/AperoPHP-Toulouse/?_locale=fr-FR"
+
+permalink: /posts/:title
+
+ga_ua: ""
+home_featured_articles_count: 1
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+   - Makefile
+   - docker-compose.yml
+   - docker-compose.override.yml-dist
+   - docker-compose.override.yml
+   - Gemfile
+   - Gemfile.lock
+
+feed:
+  path: feed
+
