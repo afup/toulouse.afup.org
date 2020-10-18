@@ -1,21 +1,18 @@
 ---
-id: 105
 title: Super ApéroPHP le 9 mars !
 date: 2017-02-21T10:25:28+00:00
-author: admintoulouse
 layout: post
-guid: https://toulouse.afup.org/?p=105
 permalink: /2017/02/21/super-aperophp-le-9-mars/
-categories:
-  - Non classé
 ---
-<article class="markdown-body">Nous organisons un **Super ApéroPHP** le 9 mars à l&rsquo;espace de coworking HarryCow Toulouse, rendez-vous à 19h.</article> 
+
+Nous organisons un **Super ApéroPHP** le 9 mars à l&rsquo;espace de coworking HarryCow Toulouse, rendez-vous à 19h. 
 
 **La participation est gratuite sous réserve d&rsquo;inscription.**
 
-[> Je m&rsquo;inscris](https://www.meetup.com/fr-FR/AperoPHP-Toulouse/events/237869543)
+{% include widgets/meetup.html url="https://www.meetup.com/fr-FR/AperoPHP-Toulouse/events/237869543" %}
 
-[<img class="wp-image-110 aligncenter" src="https://toulouse.afup.orgfiles/2017/02/super_apero_php-300x213.png" alt="" width="171" height="126" />](https://toulouse.afup.orgfiles/2017/02/super_apero_php.png)Cette édition spéciale se fait en simultané avec les 15 antennes francophones : Lille, Paris, Lyon, Toulouse, Marseille, Nantes, Luxembourg, Montpellier, Rennes, Tours, Clermont Ferrand, Limoges, Valence, Bordeaux, rien que ça !
+
+![](/files/2017/02/super_apero_php-300x213.png)
 
 ## Quoi de &laquo;&nbsp;super&nbsp;&raquo; pour cet apéro ?
 
@@ -59,7 +56,7 @@ Nous faisons en sorte de rendre la **soirée agréable pour toutes et tous**, vo
 
 Pour cette édition, nous avons la chance d&rsquo;être sponsorisé par les sociétés <a href="https://makina-corpus.com/" target="_blank">Makina Corpus</a>, <a href="https://www.occitech.fr/" target="_blank">Occitech</a> et <a href="https://www.emagma.fr/" target="_blank">Emagma</a>, merci à elles !
 
-**Nous recherchons d&rsquo;autres sponsors** pour cette rencontre et les suivantes, contactez <loic@emagma.fr><article class="markdown-body"> 
+**Nous recherchons d&rsquo;autres sponsors** pour cette rencontre et les suivantes, contactez <loic@emagma.fr> 
 
 ## Inscription
 
@@ -67,4 +64,3 @@ Pour cette édition, nous avons la chance d&rsquo;être sponsorisé par les soci
 
 Une fois inscrit, n&rsquo;oubliez pas de renseigner [ce questionnaire qui nous facilitera l&rsquo;organisation](https://docs.google.com/forms/d/e/1FAIpQLSdfxdnHe14fnE-ANW9hEvn89UCkbAxIF9XhRx7sW1qMWhCeUg/viewform) de la rencontre.
 
-&nbsp;</article>

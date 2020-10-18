@@ -1,14 +1,10 @@
 ---
-id: 16
 title: Coding Dojo PHP le 25 Septembre
 date: 2012-09-17T12:31:48+00:00
-author: methylbro
 layout: post
-guid: https://toulouse.afup.org/?p=16
 permalink: /2012/09/17/coding-dojo-php-le-25-septembre/
-categories:
-  - Non classé
 ---
+
 L&rsquo;antenne Toulousaine de l&rsquo;AFUP organise en partenariat avec le groupe **Software Craftmanship Toulouse** un premier _Coding Dojo PHP_ le **25 Septembre 2012** au soir dans les locaux de l&rsquo;[EPITECH](http://toulouse.epitech.eu) (19 rue Bayard).
 
 L&rsquo;inscription est gratuite et **limitée à 15 places**.

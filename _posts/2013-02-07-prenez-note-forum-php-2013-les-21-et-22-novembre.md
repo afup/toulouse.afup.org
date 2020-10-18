@@ -4,7 +4,6 @@ title: Prenez note ! Forum PHP 2013 les 21 et 22 novembre
 date: 2013-02-07T18:04:36+00:00
 author: communication
 layout: post
-guid: https://toulouse.afup.org/?p=67
 permalink: /2013/02/07/prenez-note-forum-php-2013-les-21-et-22-novembre/
 categories:
   - Non classé

@@ -4,7 +4,6 @@ title: Très belle année 2013 à tous !
 date: 2013-01-08T16:43:12+00:00
 author: communication
 layout: post
-guid: https://toulouse.afup.org/?p=54
 permalink: /2013/01/08/tres-belle-annee-2013-a-tous/
 categories:
   - Non classé

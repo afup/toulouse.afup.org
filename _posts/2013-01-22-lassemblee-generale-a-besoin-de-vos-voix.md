@@ -4,7 +4,6 @@ title: 'L&rsquo;Assemblée Générale a besoin de vos voix'
 date: 2013-01-22T16:41:57+00:00
 author: communication
 layout: post
-guid: https://toulouse.afup.org/?p=58
 permalink: /2013/01/22/lassemblee-generale-a-besoin-de-vos-voix/
 categories:
   - Non classé

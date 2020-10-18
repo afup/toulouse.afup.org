@@ -4,7 +4,6 @@ title: Rentrée toulousaine
 date: 2014-09-15T11:00:46+00:00
 author: rkueny
 layout: post
-guid: https://toulouse.afup.org/?p=86
 permalink: /2014/09/15/rentree-toulousaine/
 categories:
   - Non classé
@@ -17,7 +16,7 @@ Au final, voici ce qui a été décidé. Nous allons organiser un événement to
 
 On peut présenter cela comme de la veille. Vous avez pris le temps de regarder une nouvelle librairie ? Un nouveau CMS ? Vous êtes un pro de composer ? Ou alors vous avez découvert une ligne de code trop bien ? Venez nous en parler !
 
-<img class="aligncenter wp-image-87" src="https://toulouse.afup.orgfiles/2014/09/elephpant-300x192.png" alt="elephpant" width="214" height="140" /> 
+<img class="aligncenter wp-image-87" src="/files/2014/09/elephpant-300x192.png" alt="elephpant" width="214" height="140" /> 
 
 Pour vous faire connaitre, n&rsquo;hésitez pas à contacter : [@rkueny](http://twitter.com/rkueny) ou [@pierremartin](http://twitter.com/pierremartin).
 

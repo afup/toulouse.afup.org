@@ -4,12 +4,11 @@ title: 'RDV AFUP &#8211; 8 octobre'
 date: 2014-09-29T18:39:43+00:00
 author: rkueny
 layout: post
-guid: https://toulouse.afup.org/?p=91
 permalink: /2014/09/29/rdv-afup-8-octobre/
 categories:
   - Non classé
 ---
-Comme promis, nous partons sur le rythme 1 event par mois. Le mois dernier c&rsquo;était [l&rsquo;apéro PHP de rentrée](https://toulouse.afup.org2014/09/15/rentree-toulousaine/ "Rentrée toulousaine") et maintenant, place à un RDV AFUP.
+Comme promis, nous partons sur le rythme 1 event par mois. Le mois dernier c&rsquo;était [l&rsquo;apéro PHP de rentrée](/2014/09/15/rentree-toulousaine/ "Rentrée toulousaine") et maintenant, place à un RDV AFUP.
 
 Le RDV AFUP sera le 8 octobre. Nous serons accueilli par l&rsquo;école EPITECH dans leur nouveaux locaux au 40 boulevard de la Marquette.
 

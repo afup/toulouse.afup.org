@@ -4,7 +4,6 @@ title: PHP et la forte charge
 date: 2014-05-05T13:44:27+00:00
 author: methylbro
 layout: post
-guid: https://toulouse.afup.org/?p=76
 permalink: /2014/05/05/php-et-la-forte-charge/
 categories:
   - Non classé

@@ -4,7 +4,6 @@ title: ApéroPHP – mardi 20 novembre à 19h
 date: 2012-11-06T17:35:53+00:00
 author: methylbro
 layout: post
-guid: https://toulouse.afup.org/?p=48
 permalink: /2012/11/06/aperophp-mardi-20-novembre-a-19h/
 categories:
   - Non classé

@@ -1,17 +1,14 @@
 ---
-id: 100
 title: ApéroPHP de Noël, 16 décembre au pub Le Seventies
 date: 2016-12-13T16:34:49+00:00
-author: admintoulouse
 layout: post
-guid: https://toulouse.afup.org/?p=100
 permalink: /2016/12/13/aperophp-de-noel-16-decembre-au-pub-le-seventies/
-categories:
-  - Non classé
 ---
+
 **Le dernier ApéroPHP de l&rsquo;année aura lieu au pub Le Seventies (42 Port Saint-Étienne, Toulouse), vendredi 16 décembre à 19h .**
 
-[> INSCRIVEZ-VOUS](https://www.meetup.com/fr-FR/AperoPHP-Toulouse/events/235954767/)
+{% include widgets/meetup.html url="https://www.meetup.com/fr-FR/AperoPHP-Toulouse/events/235954767/" %}
+
 
 Nous avons voulu cet apéro plus **festif** sans perdre de vue l&rsquo;échange autour des technos.
 
@@ -27,7 +24,7 @@ Le programme de la soirée :
 
 Discussions autour d&rsquo;une bière sur les initiatives à mener sur Toulouse pour valoriser PHP, organisation des prochains apéros, coding dojo, mini-conférences.
 
-> on compte sur vous !
+On compte sur vous !
 
 **21h30 : Concours de fléchettes**
 

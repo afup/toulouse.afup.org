@@ -4,7 +4,6 @@ title: ApéroPHP – mardi 05 février à 19h
 date: 2013-01-25T13:00:37+00:00
 author: methylbro
 layout: post
-guid: https://toulouse.afup.org/?p=61
 permalink: /2013/01/25/aperophp-mardi-05-fevrier-a-19h/
 categories:
   - Non classé
