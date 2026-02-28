@@ -1,4 +1,5 @@
 url: "http://toulouse.afup.org"
+baseurl: /archives
 
 title: "AFUP Toulouse"
 description: >-
@@ -8,7 +9,6 @@ meetup_url: "https://www.meetup.com/fr-FR/AperoPHP-Toulouse/?_locale=fr-FR"
 
 permalink: /posts/:title
 
-ga_ua: "G-M94QC74XG2"
 home_featured_articles_count: 1
 
 # Build settings

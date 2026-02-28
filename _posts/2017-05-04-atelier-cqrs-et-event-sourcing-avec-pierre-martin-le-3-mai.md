@@ -23,8 +23,8 @@ Si vous souhaitez participer, proposer des sujets ou idées, envoyez-moi un emai
 
 Loïc
 
-![](https://toulouse.afup.org/files/2017/05/2017-05-03-19.21.54.resized-768x576.jpg)
-![](https://toulouse.afup.org/files/2017/05/2017-05-03-19.21.58.resized-768x576.jpg)
-![](https://toulouse.afup.org/files/2017/05/2017-05-03-19.22.06.resized-768x576.jpg)
-![](https://toulouse.afup.org/files/2017/05/2017-05-03-20.43.29.resized-768x576.jpg)
+![](/archives/files/2017/05/2017-05-03-19.21.54.resized-768x576.jpg)
+![](/archives/files/2017/05/2017-05-03-19.21.58.resized-768x576.jpg)
+![](/archives/files/2017/05/2017-05-03-19.22.06.resized-768x576.jpg)
+![](/archives/files/2017/05/2017-05-03-20.43.29.resized-768x576.jpg)
 
